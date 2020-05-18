@@ -13,7 +13,7 @@ Netty is an asynchronous event-driven network application framework for rapid de
 
 For the detailed information about building and developing Netty, please visit [the developer guide](https://netty.io/wiki/developer-guide.html).  This page only gives very basic information.
 
-You require the following to build Netty:
+You require the following to build Netty:1
 
 * Latest stable [Oracle JDK 7](http://www.oracle.com/technetwork/java/)
 * Latest stable [Apache Maven](http://maven.apache.org/)
